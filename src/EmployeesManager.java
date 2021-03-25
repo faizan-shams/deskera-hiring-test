@@ -1,4 +1,5 @@
 import java.util.Collection;
+import java.lang.*;
 
 public class EmployeesManager {
 
